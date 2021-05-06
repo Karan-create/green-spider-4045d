@@ -10,7 +10,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-    image: images/IMG_0388.JPG
+    image: images/Karan circle Image.png
     image_alt: Karan Thakur
     media_position: right
     media_width: fourty
