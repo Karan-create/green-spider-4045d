@@ -17,7 +17,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
     background_image: images/Karan circle Image.png
     background_image_repeat: repeat
     background_image_size: auto
