@@ -13,7 +13,7 @@ sections:
     image: images/Karan circle Image.png
     image_alt: Karan Thakur
     media_position: right
-    media_width: sixty
+    media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
