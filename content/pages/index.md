@@ -11,7 +11,7 @@ sections:
         url: /contact
         style: primary
     image: images/IMG_0388.JPG
-    image_alt: A smiling woman
+    image_alt: Karan Thakur
     media_position: right
     media_width: fourty
     align: left
