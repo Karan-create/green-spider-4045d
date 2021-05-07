@@ -209,7 +209,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Karan Thakur Personal Website
-  description: The preview of the Personal theme
+  description: The complete solution in Digital Marketing and Graphic creation.
   extra:
     - name: 'og:type'
       value: website
